@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="" alt="👋 Hi there! I'm Deepak" title="👋 Hi there! I'm Deepak"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
